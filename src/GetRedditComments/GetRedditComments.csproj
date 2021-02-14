@@ -3,6 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Kris Craig</Authors>
+    <Description>In this tutorial, we will learn how to display a post's full comments tree up to the limit allowed by Reddit.</Description>
+    <Copyright>Copyright (C) 2021 by Kris Craig</Copyright>
+    <PackageProjectUrl>https://github.com/sirkris/Reddit.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Reddit-NET/GetComments</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Reddit.NET Reddit comments comment replies more morechildren tree navigate retrieve get post</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
